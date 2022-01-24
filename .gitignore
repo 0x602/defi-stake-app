@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+.env
+.history
+.hypothesis/
+build/
+reports/
+node_modules/
+chain-info/
+brownie-config.json
